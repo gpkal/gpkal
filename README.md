@@ -18,13 +18,11 @@ Experience in **machine learning**, **deep learning**, and **data visualization*
 
 ## Tech Stack
 
-| Languages | Frameworks & Libraries | Tools & Platforms |
-|:---------:|:---------------------:|:-----------------:|
-|  Python   |      TensorFlow       |        Git        |
-|    SQL    |       PyTorch         |      Tableau      |
-|     R     |     Scikit-Learn      |       Qlik        |
-|           |                       |     MongoDB       |
-
+| Category | Technologies |
+|:---------|:-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql) ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r) |
+| **Frameworks & Libraries** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-black?style=flat-square&logo=scikit-learn) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau) ![Qlik](https://img.shields.io/badge/-Qlik-black?style=flat-square&logo=qlik) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) |
 
 ---
 
