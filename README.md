@@ -30,6 +30,8 @@ Experience in **machine learning**, **deep learning**, and **data visualization*
 
 ---
 
+<div align="center">
+
 > **Upon the Mind and Heart, a Verse**  
 >  
 > Lo! 'Tis the mind, the nimble sprite of thought,  
@@ -45,3 +47,5 @@ Experience in **machine learning**, **deep learning**, and **data visualization*
 > Is forged from deeds that time and fate did strew.  
 >  
 > *— with humble bows to Agatha Christie, Carlo Levi, Marie Curie, and Jean-Paul Sartre*
+
+</div>
