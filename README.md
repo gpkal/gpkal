@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Giorgia Prina - Data Scientist</title>
+  <title>Giorgia Prina - Data Scientist</title>  <!-- Questo è il titolo della pagina, visibile solo nella barra del browser -->
   <style>
     h1 {
       text-align: center;
@@ -11,6 +11,7 @@
   </style>
 </head>
 <body>
+  <!-- Il contenuto visibile della pagina -->
   <h1>Giorgia Prina</h1>
   <h3>Data Scientist</h3>
 
@@ -43,8 +44,4 @@
     <p>Lo! 'Tis the mind, the nimble sprite of thought, <br> Whose little cells do solve what sense cannot.</p>
     <p>The morrow, dressed in robes of ancient grace, <br> Doth speak with tongues from times we scarce embrace.</p>
     <p>Fear not, for naught is wrought but to be known; <br> The truth, once found, shall sit on reason’s throne.</p>
-    <p>And liberty, that tempest wild and true, <br> Is forged from deeds that time and fate did strew.</p>
-    <footer><strong>— with humble bows to Agatha Christie, Carlo Levi, Marie Curie, and Jean-Paul Sartre</strong></footer>
-  </blockquote>
-</body>
-</html>
+    <p>And liberty, that tempest wild and true, <br>
