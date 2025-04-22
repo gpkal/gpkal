@@ -1,6 +1,5 @@
-<div align="center">
-  <title>Giorgia Prina</title> 
-</div>
+<title align="center">Giorgia Prina</title> 
+
 ### Data Scientist
 
 ---
