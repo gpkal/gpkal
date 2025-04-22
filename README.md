@@ -24,10 +24,6 @@ Experience in **machine learning**, **deep learning**, and **data visualization*
 | **Frameworks & Libraries** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-black?style=flat-square&logo=scikit-learn) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau) ![Qlik](https://img.shields.io/badge/-Qlik-black?style=flat-square&logo=qlik) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) |
 
-
-## Connect with me  
-[LinkedIn](https://www.linkedin.com/in/giorgia-prina-data-tective/) | [Email](mailto:giorgiaprina2@gmail.com) | [GitHub](https://github.com/gpkal)
-
 ---
 
 <div align="center">
@@ -47,5 +43,14 @@ Experience in **machine learning**, **deep learning**, and **data visualization*
 > Is forged from deeds that time and fate did strew.  
 >  
 > *— with humble bows to Agatha Christie, Carlo Levi, Marie Curie, and Jean-Paul Sartre*
+
+</div>
+
+---
+
+<div align="center">
+ 
+## Connect with me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giorgia-prina-data-tective/) | [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:giorgiaprina2@gmail.com) | [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/gpkal)
 
 </div>
