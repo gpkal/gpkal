@@ -1,6 +1,20 @@
-<title align="center">Giorgia Prina</title> 
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Giorgia Prina - Data Scientist</title>
+  <style>
+    h1 {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Giorgia Prina</h1>
+  <h3>Data Scientist</h3>
 
-### Data Scientist
+  <hr>
 
 ---
 
