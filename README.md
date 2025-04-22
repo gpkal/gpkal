@@ -24,31 +24,31 @@ Experience in **machine learning**, **deep learning**, and **data visualization*
 | **Frameworks & Libraries** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-black?style=flat-square&logo=scikit-learn) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau) ![Qlik](https://img.shields.io/badge/-Qlik-black?style=flat-square&logo=qlik) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) |
 
----
-
 ## Tech Stack
 
 <table>
   <tr>
-    <td width="33%" align="center"><strong>Languages</strong></td>
-    <td width="33%" align="center"><strong>Frameworks & Libraries</strong></td>
-    <td width="33%" align="center"><strong>Tools & Platforms</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" /><br/>
-      <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" alt="SQL" /><br/>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
+      <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" alt="SQL" />
       <img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r" alt="R" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" alt="TensorFlow" /><br/>
-      <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" alt="PyTorch" /><br/>
+  </tr>
+  <tr>
+    <td><strong>Frameworks & Libraries</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" alt="PyTorch" />
       <img src="https://img.shields.io/badge/-ScikitLearn-black?style=flat-square&logo=scikit-learn" alt="Scikit-Learn" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" /><br/>
-      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" /><br/>
-      <img src="https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau" alt="Tableau" /><br/>
+  </tr>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau" alt="Tableau" />
       <img src="https://img.shields.io/badge/-Qlik-black?style=flat-square&logo=qlik" alt="Qlik" />
     </td>
   </tr>
