@@ -26,6 +26,34 @@ Experience in **machine learning**, **deep learning**, and **data visualization*
 
 ---
 
+## Tech Stack
+
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>Languages</strong></td>
+    <td width="33%" align="center"><strong>Frameworks & Libraries</strong></td>
+    <td width="33%" align="center"><strong>Tools & Platforms</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" /><br/>
+      <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql" alt="SQL" /><br/>
+      <img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r" alt="R" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" alt="TensorFlow" /><br/>
+      <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" alt="PyTorch" /><br/>
+      <img src="https://img.shields.io/badge/-ScikitLearn-black?style=flat-square&logo=scikit-learn" alt="Scikit-Learn" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" /><br/>
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" /><br/>
+      <img src="https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau" alt="Tableau" /><br/>
+      <img src="https://img.shields.io/badge/-Qlik-black?style=flat-square&logo=qlik" alt="Qlik" />
+    </td>
+  </tr>
+</table>
+
 ## Connect with me  
 [LinkedIn](https://www.linkedin.com/in/giorgia-prina-data-tective/) | [Email](mailto:giorgiaprina2@gmail.com) | [GitHub](https://github.com/gpkal)
 
