@@ -18,17 +18,23 @@ Experience in **machine learning**, **deep learning**, and **data visualization*
 
 ## Tech Stack
 
-| Languages     | Frameworks/Libraries     | Tools & Platforms   |
-|---------------|--------------------------|----------------------|
-| Python        | TensorFlow, PyTorch      | Git, Tableau, Qlik   |
-| SQL           | Scikit-Learn             | MongoDB              |
-| R             |                          |                      |
+<details open>
+  <summary>Click to expand/collapse</summary>
+  
+  | Languages | Frameworks & Libraries | Tools & Platforms |
+  |:---------:|:---------------------:|:-----------------:|
+  |  Python   |      TensorFlow       |        Git        |
+  |    SQL    |       PyTorch         |      Tableau      |
+  |     R     |     Scikit-Learn      |       Qlik        |
+  |           |                       |     MongoDB       |
+  
+</details>
 
 
 ---
 
 ## Connect with me  
-[LinkedIn](https://www.linkedin.com/in/giorgia-prina/) | [Email](mailto:giorgiaprina2@gmail.com) | [GitHub](https://github.com/gpkal)
+[LinkedIn]([https://www.linkedin.com/in/giorgia-prina/](https://www.linkedin.com/in/giorgia-prina-data-tective/)) | [Email](mailto:giorgiaprina2@gmail.com) | [GitHub](https://github.com/gpkal)
 
 ---
 
