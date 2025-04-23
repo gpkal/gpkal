@@ -49,13 +49,10 @@ Experience in **machine learning**, **deep learning**, and **data visualization*
 ---
 
 <div align="center">
- 
-## Connect with me  
-<div align="center">
 
 ## Connect with me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giorgia-prina-data-tective/) | 
-[![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=red)](mailto:giorgiaprina2@gmail.com) | 
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:giorgiaprina2@gmail.com) | 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/gpkal)
 
 </div>
